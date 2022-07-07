@@ -1,3 +1,13 @@
+body, footer{
+    font-family: 'DM Sans', sans-serif;
+}
+.class_for_h1, .subscribe__title, .plan__title, .button_blue, .button_write, .subscribe__title, .plan__title, .item__text, .item__title, .button__item{
+    font-family: 'DM Sans', sans-serif; 
+}
+.class_for_p, .item__li{
+    font-family: 'Mulish', sans-serif;
+}
+
 .header, .footer{
     background-color: rgba(255, 113, 67, 0.27);
     padding: 40px 0 45px;
